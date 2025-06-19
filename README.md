@@ -2,6 +2,8 @@
   <h1 style="font-size: 2.5em; border-bottom: 2px solid #ccc; padding-bottom: 10px;">📄 Description</h1>
   <p style="font-size: 1.2em; color: #555;">
     Κώδικας που χρησιμοποιήθηκε στη διαδικασία συγγραφής της Διπλωματικής μου εργασίας.
+
+    Θέμα:Συγκριτική ανάλυση CNN και Vision Transformer ως προς την εκπαίδευση κακόβουλου λογισμικού
   </p>
 
   <h2 style="margin-top: 40px; font-size: 2em; color: #333;">🛠️ Tools I Have Used</h2>
