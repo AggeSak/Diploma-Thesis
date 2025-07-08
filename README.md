@@ -13,3 +13,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="60" height="60" style="margin-right: 15px;" />
   </p>
 </section>
+
+<section style="font-family: Arial, sans-serif; padding: 20px;">
+  <h2 style="margin-top: 40px; font-size: 2em; color: #333;">⬇️ Πώς να Χρησιμοποιήσετε τον Κώδικα</h2>
+  <ol style="font-size: 1.2em; color: #555; line-height: 1.6;">
+    <li>Μεταβείτε στο αποθετήριο GitHub που περιέχει τον κώδικα.</li>
+    <li>Πατήστε το κουμπί <strong>"Code"</strong>.</li>
+    <li>Επιλέξτε <strong>"Download ZIP"</strong> για να κατεβάσετε όλα τα αρχεία τοπικά.</li>
+    <li>Εναλλακτικά, αν έχετε εγκατεστημένο το Git, εκτελέστε την εντολή:<br>
+      <code style="background-color: #f4f4f4; padding: 4px 8px; display: inline-block; margin-top: 5px;">git clone https://github.com/το-αποθετήριο-σου</code>
+    </li>
+    <li>Αποσυμπιέστε το φάκελο (αν κατεβάσατε ZIP) και περιηγηθείτε στον κατάλογο με τον κώδικα.</li>
+  </ol>
+</section>
+
+<section style="font-family: Arial, sans-serif; padding: 20px;">
+  <h2 style="margin-top: 40px; font-size: 2em; color: #333;">🧪 Μετατροπή Εκτελέσιμων Αρχείων σε Εικόνες</h2>
+  <p style="font-size: 1.2em; color: #555; line-height: 1.6;">
+    Στην εργασία μου πραγματοποιήθηκε μετατροπή εκτελέσιμων αρχείων σε εικόνες, σύμφωνα με τις οδηγίες και τη μεθοδολογία που περιγράφεται στο αρχείο <strong><em>τάδε</em></strong>.
+    Η διαδικασία αυτή αποτέλεσε βασικό στάδιο για την προετοιμασία των δεδομένων που χρησιμοποιήθηκαν κατά την εκπαίδευση των μοντέλων CNN και Vision Transformer.
+  </p>
+</section>
+
